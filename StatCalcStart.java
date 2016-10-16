@@ -27,7 +27,7 @@ public class StatCalcStart {
             else {
                 calc.enter(number);
             }
-        } while (true);
+        } while (true); //en while loop
         
         if (calc.getCount() > 0) {
             System.out.println(calc.printNumbers());
