@@ -76,11 +76,11 @@ public class StatCalc {
     }
     
     public double getMax() {
-        return max;
+        return max; //maximum
     }
     
     public double getMin() {
-        return min;
+        return min; //minimum
     }
     
     public String printNumbers() {
